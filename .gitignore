@@ -1,0 +1,22 @@
+# 코디세이 미션 원문 자료
+5-2_Mini_Git.md
+5-2_mini_git.pdf
+
+# 코디세이 5-2 평가 체크리스트
+5-2_guide.md
+
+# Python 임시 파일
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Mac 시스템 파일
+.DS_Store
+
+# 가상환경
+.venv/
+venv/
+
+# 환경변수 및 비밀정보
+.env
+.env.*
